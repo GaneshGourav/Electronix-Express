@@ -1,4 +1,4 @@
-# gusty-adjustment-6018
+# Electronix-Express
 - Deployed Link : https://elctronix-express-k74afyg3e-ganeshgourav.vercel.app
 # Electronix Online Shop Web Application
 
