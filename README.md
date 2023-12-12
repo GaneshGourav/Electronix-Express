@@ -14,6 +14,12 @@ Welcome to Electronix Express! This application aims to revolutionize online ele
 - [Contributors](#contributors)
 - [Deployment](#deployment)
 
+  ## Tech Stack
+  . react
+  . redux
+  . react-router-dom
+  . chakra ui
+
 ## Features
 
 - User and admin authentication system.
