@@ -15,10 +15,10 @@ Welcome to Electronix Express! This application aims to revolutionize online ele
 - [Deployment](#deployment)
 
   ## Tech Stack
-  . react
-  . redux
-  . react-router-dom
-  . chakra ui
+  - react
+  - redux
+  - react-router-dom
+  - chakra ui
 
 ## Features
 
