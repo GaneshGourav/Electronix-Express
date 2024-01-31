@@ -1,5 +1,5 @@
 # Express-Electronics
-- Deployed Link : https://elctronix-express-k74afyg3e-ganeshgourav.vercel.app
+- Deployed Link : https://express-electronics.vercel.app/
 # Electronix Online Shop Web Application
 
 Welcome to Express-Electronics! This application aims to revolutionize online electronic shopping, built using React and Redux to provide users with a seamless shopping experience for electronic items. With a user-friendly interface, user and admin authentication, and various features. You can read on to learn more about its components, features, and how to get started.
@@ -123,4 +123,4 @@ Product Detail Endpoint: /singleproduct/:id
 ## Deployment
 The app is deployed on Vercel. You can access it using the following link:
 
-Deployed Link : https://elctronix-express-k74afyg3e-ganeshgourav.vercel.app
+Deployed Link : https://express-electronics.vercel.app/
